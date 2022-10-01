@@ -2,8 +2,7 @@ Hi! My name is Ayden Shankman, I am currently a student at The Cooper Union stud
 
 * [Data Structures and Algorithms II](https://github.com/Shankface/DSA2) (C++)
 * [Operating Systems](https://github.com/Shankface/OperatingSystems) (C)
-* [Signals](https://github.com/gkgkgkgk/ECE211) (Matlab)
-* [Natural Language Processing](https://github.com/gkgkgkgk/ECE467-NLP) (Python)
-* [Probability Models and Stochastic Processes](https://github.com/gkgkgkgk/ECE302-ProbModels) (Matlab)
+* [Natural Language Processing](https://github.com/Shankface/NLP) (Python)
+* [Digital Signals Processing](https://github.com/Shankface/Digital-Signal-Processing) (Matlab)
 * [Communication Networks](https://github.com/Shankface/CommNets) (Python)
 
