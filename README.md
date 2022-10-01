@@ -1,1 +1,1 @@
-Hello, my name is Ayden Shankman, I am currently a student at The Cooper Union studying Electrical Engineering and Computer Science with a planned graduation date of May 2023.
+Hello, my name is Ayden Shankman, I am currently a student at The Cooper Union studying Electrical Engineering and Computer Science with a planned graduation date of May 2023. I plan to get a Masters in Electrical Engineering by December 2023. I love creating, coding, building, and problem solving. This Github is a collection of all classes and projects I've done.
