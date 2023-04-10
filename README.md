@@ -4,6 +4,7 @@ Hi! My name is Ayden Shankman, I am currently a student at The Cooper Union stud
 * [Natural Language Processing](https://github.com/Shankface/NLP) (Python)
 * [Artificial Intelligence](https://github.com/Shankface/AI) (Golang/Python)
 * [Frequentist Machine Learning](https://github.com/Shankface/Frequentist-Machine-Learning) (Python)
+* [Data Science for Social Good](https://github.com/Shankface/Data-Science-for-Social-Good) (Python)
 * [Data Structures and Algorithms II](https://github.com/Shankface/DSA2) (C++)
 * [Operating Systems](https://github.com/Shankface/OperatingSystems) (C)
 * [Digital Signals Processing](https://github.com/Shankface/Digital-Signal-Processing) (Matlab)
