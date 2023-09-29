@@ -1,4 +1,4 @@
-Hi! My name is Ayden Shankman, I am currently a student at The Cooper Union studying Electrical Engineering and Computer Science with a planned graduation date of May 2023. I plan to get a Masters in Electrical Engineering by December 2023. I love creating, coding, building, and problem solving. This Github is a collection of all the programming I've worked on for school or projects I've done. Below are some of the projects I've done for school.
+Hello! I'm an Electrical Engineer and Computer Scientist with an enthusiasm for harnessing the power of machine learning and data science to drive positive change in our world and push the boundaries of innovation. I am currently a Master's student at The Cooper Union studying Machine Learning and its ethical implications. This Github is a collection of all the programming I've worked on for school or projects I've done. Below are some of the projects I've done for school.
 
 * [Deep Learning](https://github.com/Shankface/Deep-Learning) (Python)
 * [Natural Language Processing](https://github.com/Shankface/NLP) (Python)
