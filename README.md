@@ -2,7 +2,7 @@ Hello! I'm an Electrical Engineer and Computer Scientist with an enthusiasm for 
 
 * [Preference Based Path Planning for Autonomous Robots](https://github.com/gkgkgkgk/Senior-Project) (Python)
 * [Computer Vision Model for Identifying AI-Generated Faces](https://github.com/Shankface/Computer-Vision-Model-for-Identifying-AI-Generated-Faces) (Python, TensorFlow)
-* [Assesing Damage to Protected Forests in Ukraine due to Russian Invasion](https://github.com/Shankface/Computer-Vision-Model-for-Identifying-AI-Generated-Faces) (Python, TensorFlow)
+* [Assesing Damage to Protected Forests in Ukraine due to Conflict](https://github.com/Shankface/Assessing-Damage-to-Protected-Lands-from-Conflict) (Python)
 * [Deep Learning](https://github.com/Shankface/Deep-Learning) (Python, TensorFlow)
 * [Natural Language Processing](https://github.com/Shankface/NLP) (Python, TensorFlow)
 * [Movie Clip to Comic Book Panel Converter using Deep Learning](https://github.com/gkgkgkgk/ComicBookConverter) (Python)
