@@ -2,6 +2,7 @@ Hello! I'm an Electrical Engineer and Computer Scientist with an enthusiasm for 
 
 * [Deep Learning](https://github.com/Shankface/Deep-Learning) (Python)
 * [Natural Language Processing](https://github.com/Shankface/NLP) (Python)
+* [Movie Clip to Comic Book Panel Converter using Deep Learning](https://github.com/Shankface/Deep-Learning) (Python)
 * [Artificial Intelligence](https://github.com/Shankface/AI) (Golang/Python)
 * [Frequentist Machine Learning](https://github.com/Shankface/Frequentist-Machine-Learning) (Python)
 * [Data Science for Social Good](https://github.com/Shankface/Data-Science-for-Social-Good) (Python)
