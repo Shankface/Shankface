@@ -1,5 +1,6 @@
 Hello! I'm an Electrical Engineer and Computer Scientist with an enthusiasm for harnessing the power of machine learning and data science to drive positive change in our world and push the boundaries of innovation. I am currently a Master's student at The Cooper Union studying Machine Learning and its ethical implications. This Github is a collection of all the programming I've worked on for school or projects I've done. Below are some of the projects I've done for school.
 
+* [Preference Based Path Planning for Autonomous Robots](https://github.com/gkgkgkgk/Senior-Project) (Python)
 * [Deep Learning](https://github.com/Shankface/Deep-Learning) (Python)
 * [Natural Language Processing](https://github.com/Shankface/NLP) (Python)
 * [Movie Clip to Comic Book Panel Converter using Deep Learning](https://github.com/gkgkgkgk/ComicBookConverter) (Python)
